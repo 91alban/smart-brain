@@ -43,7 +43,7 @@ class App extends Component {
       //   email: '',
       //   entries: 0,
       //   joined: ''
-      // }
+      }
     }
   }
 
@@ -77,7 +77,7 @@ class App extends Component {
   }
       
 
-  render() {
+  render(); {
     return (
       <div className="App"> 
         <Particles className='particles'

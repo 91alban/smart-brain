@@ -34,16 +34,16 @@ class App extends Component {
     this.state = {
       input: '',
       ImageUrl: '',
-      // box: {},
-      // route: 'signin',
-      // isSignedIn: false,
-      // user: {
-      //   id: '',
-      //   name: '',
-      //   email: '',
-      //   entries: 0,
-      //   joined: ''
-      // }
+      box: {},
+      route: 'signin',
+      isSignedIn: false,
+      user: {
+        id: '',
+        name: '',
+        email: '',
+        entries: 0,
+        joined: ''
+      }
     }
   }
 
